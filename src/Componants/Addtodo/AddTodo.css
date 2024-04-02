@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid gray;
+    box-shadow: 1px 2px 3px gray;
+    width: 26vw;
+    margin-bottom: 4pc;
+    margin-top: 4pc;
+    border-radius: 1pc;
+    height: 21pc;
+}
+
+.btn{
+    margin:4px;
+    background-color:#ff7200;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+  
